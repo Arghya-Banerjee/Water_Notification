@@ -9,3 +9,7 @@ To run the program in background :
 1. Simply open any terminal in your pc with python installed. 
 2. Now install pyttsx3 and plyer module. (pip install pyttsx3 plyer)
 3. Now type in terminal "pythonw main.py" without the quotes.
+
+
+Water Icon provided does not belong to me
+"Icon made by Pixel perfect from www.flaticon.com"
