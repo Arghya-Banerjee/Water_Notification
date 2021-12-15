@@ -10,7 +10,7 @@ if __name__ == "__main__":
             title="**Please Drink Water Now !!**",
             message="The U.S. National Academies Medicine determined that an adequate daily fluid intake is: About 15.5 cups (3.7 liters) of fluids a day for men About 11.5 cups (2.7 liters) of fluids a day for women.",
             app_icon="F:\My projects\water_notification\water-drop.ico",
-            timeout=5
+            timeout=2
         )
 
         engine = pyttsx3.init()
