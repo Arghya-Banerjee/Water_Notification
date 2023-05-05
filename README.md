@@ -34,7 +34,7 @@ To use this project write the following in Terminal
 To run this project in background write the following in Terminal
 
 ```bash
-  pythonw main.py
+  python main.py
 ```
 This will make the python project a background task which will work even after you close the terminal as well as the IDE. You can see and kill the task with the help of Task Manager where its will be listed as python.
 ## About the Code
