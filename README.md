@@ -9,7 +9,7 @@ A water drinking notification every hour to keep you healthy while coding.
 
 ## Authors
 
-- [@CrazyCat-Cyber](https://github.com/CrazyCat-Cyber)
+- [@Arghya-Banerjee](https://github.com/Arghya-Banerjee)
 
 
 ## About
